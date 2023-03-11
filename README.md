@@ -26,14 +26,14 @@
 - Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
 ---
-1. ***Get [SESSION-ID](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://secktorbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
 3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
-4.  ***Deploy on [Heroku](https://secktoruserbot.onrender.com/heroku)***
+4.  ***Deploy on [Heroku](https://secktorbot.onrender.com/heroku)***
 
-5. ***[Deploy on Koyeb](https://secktoruserbot.onrender.com/koyeb)***
+5. ***[Deploy on Koyeb](https://seckorbot.onrender.com/koyeb)***
 
-6.  ***[Deploy on Railway](https://secktoruserbot.onrender.com/railway)***
+6.  ***[Deploy on Railway](https://secktorbot.onrender.com/railway)***
 7. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
   
 8. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
